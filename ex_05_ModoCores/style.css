@@ -1,0 +1,25 @@
+/* alterando cor por nome */
+.nome{
+    color: orangered;
+    background-color: rgb(253, 203, 203);
+}
+/* alterando cor da hexadecimal */
+.hexadecimal{
+    color: #64849e;
+    background-color: #97d0ff;
+}
+.RGBA{
+    color: rgba(100, 132, 158, 0.9);
+    background-color: rgba(132, 194, 245, 0.5);
+}
+
+/* Alterando a segunda página */
+.t-back{
+    background-color: rgb(80, 78, 78);
+    text-align: center;
+}
+.div-background{
+    background-image: url(por-da-lua.jpg);
+    height: 700px;
+    width: 1390px;
+}
