@@ -1,0 +1,14 @@
+/* usando CSS externo */
+h1{
+    /* font-size serve para mudar o tamanho da fonte */
+    font-size: 30px;
+    color: rgba(170, 255, 0, 0.527);
+}
+span{
+    font-size: 30px;
+    color: rgb(251, 110, 110);
+}
+p{
+    color: gray;
+}
+
