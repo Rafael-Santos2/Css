@@ -1,0 +1,30 @@
+body{
+    /* margin serve para definir a distancia da borda */
+    margin: 0px;
+}
+
+.boxModel{
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    /* padding é a distancia entre um conteudo de suas bordas */
+    padding: 30px 30px;
+    /* border faz uma borda ao redor do conteudo por inteiro */
+    /* 'solid' para deixar a borda solida, dotted para deixar pontilhado */
+    border: 5px solid darkred;
+    border-left: 15px gray dotted;
+    /* border-style serve para dar um estilo */
+    border-right-style: double;
+    /* border radius serve para arredondar as bordas */
+    border-radius: 50px;
+}
+
+.boxModel2{
+    margin: 100px;
+    width: 225px;
+    height: 225px;
+    background-color: aquamarine;
+    padding: 50px 50px;
+    border-radius: 25px;
+}
