@@ -1,0 +1,15 @@
+.position{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border-bottom: 7px solid rgb(139, 118, 0);
+}
+.static{
+    position:static;
+}
+.relative{
+    position: relative;
+    background-color: crimson;
+    top: 15px;
+    left: 150px;
+}
