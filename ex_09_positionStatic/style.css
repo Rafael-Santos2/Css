@@ -1,0 +1,11 @@
+.posicao{
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+    border-bottom: 5px dashed darkslategray;
+}
+.static{
+    border-right: 5px solid goldenrod;
+    position: static;
+    top: 20px;
+}
