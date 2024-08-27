@@ -1,0 +1,25 @@
+.body{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* telas desktop ate 1024px */
+@media screen and (min-width:1024px){
+    h1{font-size: 48px; color: orangered;}
+    p {font-size: 24px;}
+    body{background-color: lightgray;}
+}
+
+/* telas tablet mínimo 768px até 1023px */
+@media (min-width: 768px)and (max-width:1023px){
+    h1{font-size: 24px; color: aquamarine;}
+    p {font-size: 20px;}
+    body{background-color: lightblue;}
+}
+
+/* telas mobile máximo 767 */
+@media screen and (max-width:767px){
+    h1{font-size: 20px; color: bisque;}
+    p {font-size: 16px;}
+    body{background-color: lightcoral;}
+}
